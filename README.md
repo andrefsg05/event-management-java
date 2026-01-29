@@ -316,5 +316,5 @@ Este projeto foi desenvolvido como trabalho académico para a disciplina de Meto
 
 ## Autores
 
-- André Gonçalves nº58392
-- André Zhan nº58762
+- André Gonçalves
+- [André Zhan](https://github.com/andr-zhan)
